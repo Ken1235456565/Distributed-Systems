@@ -1,6 +1,5 @@
 ####  reference
-[《Distributed Systems 》](http://nil.csail.mit.edu/6.824/2016/schedule.html)学习和翻译
-
+[《Distributed Systems 》](http://nil.csail.mit.edu/6.824/2016/schedule.html)
 + [《大规模分布式存储系统》](https://book.douban.com/subject/25723658/)
 + [《分布式系统原理介绍》](http://pan.baidu.com/s/1geU1XAz)
 + [awesome-distributed-systems](https://github.com/kevinxhuang/awesome-distributed-systems)
